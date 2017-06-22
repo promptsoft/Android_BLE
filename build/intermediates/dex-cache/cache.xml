@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/prompt/Workspacebackup/MultipleBLEConnection/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/prompt/Workspacebackup/MultipleBLEConnection/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d1cf793e996bb5afdd124fbcf2f82f60ce41baa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prompt/Workspacebackup/MultipleBLEConnection/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="680ec3eb8943d3a2524e5e56d5419699575158a1">
+        <dex dex="/home/prompt/Workspacebackup/MultipleBLEConnection/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5ecdea71954505b41960aab65a3164cad6358b6b/classes.dex" />
+    </item>
+
+</items>
